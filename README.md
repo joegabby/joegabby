@@ -18,7 +18,7 @@ Developer productivity and engineering analytics tool built with Go.
 
 **Go · Git · Tree-sitter · AI · Docker**
 
-[Repository] · [Documentation]
+[https://github.com/joegabby/alibi.git]
 
 ## What I Work With
 
