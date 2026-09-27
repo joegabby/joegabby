@@ -20,16 +20,6 @@ Developer productivity and engineering analytics tool built with Go.
 
 [Repository] · [Documentation]
 
----
-
-### Ogla Core
-Backend system focused on clean architecture, authentication,
-database design, and maintainable Go services.
-
-**Go · PostgreSQL · SQLC · Chi · JWT**
-
-[Repository]
-
 ## What I Work With
 
 **Languages**
@@ -70,4 +60,4 @@ what I learn along the way.
 
 ## Connect
 
-[https://linkedin/in/gabrieljoe56] · [https://joegabby.github.io] · [https://gabrieljoe56@gmail.com]
+[https://linkedin.com/in/gabrieljoe56] · [https://joegabby.github.io] · [https://gabrieljoe56@gmail.com]
